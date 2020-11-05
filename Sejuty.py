@@ -114,7 +114,7 @@ jalan("   \033[1;94m Wifi User use any proxy ")
 
 jalan("   \033[1;93m Welcome To SM TECH BD ")
 
-jalan("\033[1;97m•◈•──────────•◈•\033[1;96mDo Not Best You \033[1;96m•◈•──────────•◈•")
+jalan("\033[1;97m•◈•───────────•◈•\033[1;96mDo Not Best You\033[1;96m•◈•───────────•◈•")
 
 CorrectUsername = "Mon"
 CorrectPassword = "Sejuty"
