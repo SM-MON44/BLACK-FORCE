@@ -124,6 +124,7 @@ print  """
 
 \033[1;91mTeam\033[1;91m: \033[1;93mBlack Force
 \033[1;91m«--------------------\033[1;93m✧\033[1;91m--------------------»"""
+
 jalan("\33[1;33m Assalamu Alaykum Warahmatullahi Wabarakatuh   ")
 jalan('\33[1;33m Username Mon Password Sejuty   ')
 jalan("\33[1;95m♥===========================S_M================================♥ I
